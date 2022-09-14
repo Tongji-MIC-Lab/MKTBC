@@ -35,3 +35,4 @@ Figure 2 shows the confusion matrices for combined descriptors on HMDB51 and UCF
 Please cite the following paper when using our proposed MKT and TBC.
 
 Yun Yi and Hanli Wang, Motion Keypoint Trajectory and Covariance Descriptor for Human Action Recognition, *The Visual Computer*, vol. 34, no. 3, pp. 391-403, 2018, DOI: [10.1007/s00371-016-1345-6](https://doi.org/10.1007/s00371-016-1345-6).
+
